@@ -1,4 +1,5 @@
-# DZKing
+# DZKing [![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)  
+
 **进程逆向框架**
 1.进程暂停、恢复、结束
 2.线程查看、查看TEB、线程结束、线程暂停、线程回复
